@@ -1,0 +1,1 @@
+pyinstaller  camera1_focus.py --onefile --add-data="C:\Users\GWJIANG\AppData\Roaming\Python\Python38\site-packages\mediapipe\modules;mediapipe/modules"
